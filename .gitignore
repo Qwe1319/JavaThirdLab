@@ -1,0 +1,25 @@
+# Compiled class files
+*.class
+
+# Javadoc output
+/doc/
+
+# Build folders
+/out/
+/bin/
+/target/
+
+# IDE files
+/.idea/
+*.iml
+/.classpath
+/.project
+/.settings/
+/.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
